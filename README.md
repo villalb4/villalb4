@@ -6,11 +6,11 @@ namespace Angel\Villalba;
 
 public function knowledge(): array {
     return [
-    Html::class,
-    Css::class,
-    Javascript::class,
-    Git::class
-   ];
- }
+        Html::class,
+        Css::class,
+        Javascript::class,
+        Git::class
+  ];
+}
 ?>
 ```
