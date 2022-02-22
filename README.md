@@ -3,11 +3,11 @@
 ```php
 <?php
 
-namespace Angel Villalba;
+namespace Angel\Villalba;
 
-public function getDailyKnowledge(): array {
+public function knowledge(): array {
     return [
-    HtmlL::class,
+    Html::class,
     Css::class,
     Javascript::class,
     Git::class
@@ -15,4 +15,5 @@ public function getDailyKnowledge(): array {
   }
     
 }
+?>
 ```
