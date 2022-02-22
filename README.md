@@ -10,7 +10,7 @@ public function knowledge(): array {
         Css::class,
         Javascript::class,
         Git::class
-  ];
+    ];
 }
 ?>
 ```
