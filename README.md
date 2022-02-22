@@ -2,7 +2,6 @@
 
 ```php
 <?php
-
 namespace Angel\Villalba;
 
 public function knowledge(): array {
@@ -13,7 +12,6 @@ public function knowledge(): array {
     Git::class
     ];
   }
-    
 }
 ?>
 ```
