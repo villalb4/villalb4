@@ -10,6 +10,7 @@ public function knowledge(): array {
         Css::class,
         Javascript::class,
         React::class,
+        Redux::class,
         Git::class
     ];
 }
