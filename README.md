@@ -15,6 +15,7 @@ public function knowledge(): array {
         NodeJS::class,
         Express::class,
         Sql::class,
+        Sequelize::class,
         Figma::class
     ];
 }
