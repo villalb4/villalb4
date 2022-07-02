@@ -14,7 +14,8 @@ public function knowledge(): array {
         Git::class,
         NodeJS::class,
         Express::class,
-        Sql::class
+        Sql::class,
+        Figma::class
     ];
 }
 ?>
