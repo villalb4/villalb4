@@ -13,7 +13,8 @@ public function knowledge(): array {
         Redux::class,
         Git::class,
         NodeJS::class,
-        Express::class
+        Express::class,
+        Sql::class
     ];
 }
 ?>
