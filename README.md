@@ -11,11 +11,11 @@ public function knowledge(): array {
         Javascript::class,
         React::class,
         Redux::class,
-        Git::class,
         NodeJS::class,
         Express::class,
         Sql::class,
         Sequelize::class,
+        Git::class,
         Figma::class
     ];
 }
