@@ -9,6 +9,7 @@ public function knowledge(): array {
         Html::class,
         Css::class,
         Javascript::class,
+        Typescript::class,
         React::class,
         Redux::class,
         NodeJS::class,
