@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-
 <img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&theme=buefy" alt="villalb4's GitHub Stats">
 
 ```php
@@ -26,3 +24,4 @@ public function knowledge(): array {
 }
 ?>
 ```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="villalb4's lenguages">
