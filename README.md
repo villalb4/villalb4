@@ -24,3 +24,5 @@ public function knowledge(): array {
 }
 ?>
 ```
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villalb4&layout=compact&theme=onedark" alt="villalb4's Lenguages">
