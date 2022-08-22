@@ -25,5 +25,3 @@ public function knowledge(): array {
 ?>
 ```
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=villalb4&repo=Dogs&theme=onedark" alt="Villalb4's best repo">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villalb4&layout=compact&theme=onedark" alt="villalb4's Lenguages">
