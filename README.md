@@ -24,4 +24,3 @@ public function knowledge(): array {
 }
 ?>
 ```
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=villalb4&repo=Dogs&theme=onedark" alt="Villalb4's best repo">
