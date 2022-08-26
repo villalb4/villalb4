@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&theme=onedark" alt="villalb4's GitHub Stats">
-
 ```php
 <?php
 namespace Angel\Villalba;
@@ -24,3 +22,5 @@ public function knowledge(): array {
 }
 ?>
 ```
+
+<img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&theme=onedark" alt="villalb4's GitHub Stats">
