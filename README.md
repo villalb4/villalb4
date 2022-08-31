@@ -1,6 +1,8 @@
 # Hi there 👋
 
-Hola😊 me llamo Angel, soy recien graduado del bootcamp desarrollo full stack SoyHenry💛 me gusta lo visualmente lindo por lo que soy muy perfeccionista a la hora de trabajar en el frontend de una pagina web🧐 podes verlo en algunos de mis proyectos pineados en mi GitHub😉(https://github.com/villalb4).
+<img src="./images/sobreMi.png">
+
+Hola😊 me llamo Angel, soy recien graduado del bootcamp desarrollo full stack SoyHenry💛 me apaciona la tecnologia tanto hardware como software y por eso decidi estudiar desarrollo web, me gusta lo visualmente lindo por lo que soy muy perfeccionista a la hora de trabajar como Front-End🧐 podes verlo en algunos de mis proyectos pineados mas abajo😉 auque de momento no domino diseño UI como quisiera, estoy muy conforme con mi habilidad actual al momento de ver un proyecto terminado🥰.
 
 ```php
 <?php
