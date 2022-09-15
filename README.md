@@ -1,8 +1,5 @@
 # Hola 👋
 
-## Sobre mi
-
-
 Hola😊 me llamo Angel, soy recién graduado del bootcamp de desarrollo web Full Stack SoyHenry🥳 me apasiona la tecnología tanto hardware como software y por eso decidí dedicarme a esto.
 
 me gusta lo visualmente lindo por lo que soy muy perfeccionista a la hora de trabajar como Front-End, podes verlo en algunos de mis proyectos pineados mas abajo😉 aunque de momento no domino diseño UI como quisiera, estoy muy conforme con mi habilidad actual al momento de ver un proyecto terminado.
