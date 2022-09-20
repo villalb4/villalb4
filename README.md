@@ -24,6 +24,8 @@ public function tecnologias(): array {
         Express::class,
         Sql::class,
         Sequelize::class,
+        MongoDB::class,
+        Mongoose::class,
         Git::class,
         Figma::class
     ];
