@@ -1,10 +1,8 @@
 # Hola 👋
 
-Hola😊 me llamo Angel, soy recién graduado del bootcamp de desarrollo web Full Stack SoyHenry🥳 me apasiona la tecnología tanto hardware como software y por eso decidí dedicarme a esto.
+Hola😊 me llamo Angel, soy amante de la tecnología tanto hardware como software y por supuesto los videojuegos, quienes fueron mi inspiracion para que hoy pudiera dedicarme a esto.
 
-me gusta lo visualmente lindo por lo que soy muy perfeccionista a la hora de trabajar como Front-End, podes verlo en algunos de mis proyectos pineados mas abajo😉 aunque de momento no domino diseño UI como quisiera, estoy muy conforme con mi habilidad actual al momento de ver un proyecto terminado.
-
-Hoy me encuentro perfeccionando mis habilidades como Full-Stack haciendo la mayor cantidad de proyectos posibles teniendo como objetivo especializarme en TypesScript y React, también estoy aprendiendo Electron Para llevar mis conocimientos al Escritorio😇
+me gusta lo visualmente lindo por lo que soy muy perfeccionista a la hora de trabajar en el Front End, podes verlo en algunos de mis proyectos pineados mas abajo😉
 
 ## Tecnologiás
 
