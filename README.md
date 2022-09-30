@@ -1,9 +1,5 @@
 # Hola 👋
 
-Hola😊 me llamo Angel, soy amante de la tecnología tanto hardware como software y por supuesto los videojuegos, quienes fueron mi inspiracion para que hoy pudiera dedicarme a esto.
-
-me gusta lo visualmente lindo por lo que soy muy perfeccionista a la hora de trabajar en el Front End, podes verlo en algunos de mis proyectos pineados mas abajo😉
-
 ## Tecnologiás
 
 ```php
