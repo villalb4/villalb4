@@ -1,4 +1,4 @@
-# Hola 👋
+# Hi 👋
 
 ## Tecnologiás
 
