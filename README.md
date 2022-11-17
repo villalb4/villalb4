@@ -24,6 +24,8 @@ public function tecnologias(): array {
         MongoDB::class,
         Mongoose::class,
         Git::class,
+        GitHub::class,
+        GitHub Actions::class,
         Figma::class
     ];
 }
