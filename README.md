@@ -34,6 +34,10 @@ public function tecnologias(): array {
 <img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&theme=onedark" alt="villalb4's GitHub Stats">
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21626kqaxcagyifhs7cts77xa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1014273819302707330)](https://discord.com/users/1014273819302707330)
+
+
     
 ## Contacto 📬
 - Email: villalb4angel@gmail.com
