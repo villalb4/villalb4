@@ -38,7 +38,7 @@ public function tecnologias(): array {
       <img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true" style="padding=0;" alt="villalb4's GitHub Stats">
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <a href="https://wakatime.com/@Yakiyo"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yakiyo&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/></a>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true">
     </td>
   </tr>
 </table>
