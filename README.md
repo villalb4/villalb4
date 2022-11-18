@@ -33,7 +33,7 @@ public function tecnologias(): array {
 ```
 <img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&theme=onedark" alt="villalb4's GitHub Stats">
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=21626kqaxcagyifhs7cts77xa&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21626kqaxcagyifhs7cts77xa&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21626kqaxcagyifhs7cts77xa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
     
 ## Contacto 📬
 - Email: villalb4angel@gmail.com
