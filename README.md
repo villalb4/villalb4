@@ -23,6 +23,7 @@ public function tecnologias(): array {
         Sequelize::class,
         MongoDB::class,
         Mongoose::class,
+        Jest::class,
         Git::class,
         GitHub::class,
         GitHub Actions::class,
