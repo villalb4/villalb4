@@ -1,5 +1,5 @@
 # Hi there👋
-Hola! me llamo Angel, soy programador web con sede en Argentina🌴, me especializo en el Front End aspirando a diseñar y desarrollar webs en las cuales pueda llevar mis habilidades a otro nivel, sin dejar de lado el backend del cual soy muy apasionado. 
+Hola! me llamo Angel, soy programador web con sede en Argentina🌴, me especializo en el Front End aspirando a diseñar y desarrollar webs en las cuales pueda llevar mis habilidades a otro nivel, sin dejar de lado el backend del cual soy muy apasionado😊
 
 Actualmente me encuentro en busqueda laboral con muchas ganas de hallar mi primer empleo como programador, mientras tanto sigo perfeccionando mis habilidades trabajando en proyectos propios, te invito a ver algunos, estan pineados aqui abajo.
 
