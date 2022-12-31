@@ -50,4 +50,4 @@ public function tecnologias(): array {
 - Email: villalb4angel@gmail.com
 - Linkedin: https://www.linkedin.com/in/angelvillalba/
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1014273819302707330)](https://discord.com/users/1014273819302707330)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1014273819302707330?idleMessage=Status:%20probably%20centering%20divs🎨)](https://discord.com/users/1014273819302707330)
