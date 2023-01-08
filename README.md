@@ -36,11 +36,11 @@ public function tecnologias(): array {
 
 <table align="center">
   <tr>
-    <td align="center" style="padding=0;width=50%;">
+    <td  >
       <img src="https://github-readme-stats.vercel.app/api?username=villalb4&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true" style="padding=0;" alt="villalb4's GitHub Stats">
     </td>
-    <td align="center" style="padding=0;width=50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villalb4&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true">
+    <td  >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villalb4&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true">
     </td>
   </tr>
 </table>
@@ -52,3 +52,5 @@ public function tecnologias(): array {
 - Linkedin: https://www.linkedin.com/in/angelvillalba/
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1014273819302707330?idleMessage=Status:%20probably%20centering%20divs🎨)](https://discord.com/users/1014273819302707330)
+
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villalb4" alt="villalb4" /> -->
