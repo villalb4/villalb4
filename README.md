@@ -15,6 +15,7 @@ public function tecnologias(): array {
         Html::class,
         Css::class,
         Javascript::class,
+        Python::class,
         Typescript::class,
         React::class,
         Redux::class,
