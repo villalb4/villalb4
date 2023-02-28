@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/villalb4/villalb4/main/images/Hi.png">
 
-Hola! me llamo Angel, soy programador web Argentino, Actualmente trabajando en ProFlight. Me especializo en el Front End y me encuentro estudiando diseño UX/UI,en mis tiempos libres me encanta diseñar y desarrollar webs en las cuales pueda llevar mis habilidades al situiente nivel.
+Hola! me llamo Angel, soy programador web Argentino, Actualmente trabajando en ProFlight. Me especializo en el Front End y me encuentro estudiando diseño UX/UI, en mis tiempos libres me encanta diseñar y desarrollar webs en las cuales pueda llevar mis habilidades al siguiente nivel.
 
 ## Tecnologiás
 
