@@ -16,6 +16,7 @@ public function tecnologias(): array {
         Python::class,
         Typescript::class,
         React::class,
+        React-Native::class,
         Redux::class,
         NodeJS::class,
         Express::class,
