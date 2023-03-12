@@ -45,7 +45,7 @@ public function tecnologias(): array {
   </tr>
 </table>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21626kqaxcagyifhs7cts77xa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
+<!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21626kqaxcagyifhs7cts77xa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false) -->
     
 ## Contacto 📬
 - Email: villalb4angel@gmail.com
